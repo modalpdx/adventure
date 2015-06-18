@@ -38,7 +38,9 @@ and we're sticking with purity here.
 
 Download the single source code file and compile it directly with GCC:
 
+```
 gcc -Wall -Werror -o adventure adventure.c
+```A
 
 ##Colophon:
 

@@ -19,6 +19,9 @@ an ordered list of rooms that you traversed on your way to the end. If you
 burn through too many movements, you'll eventually lose. This can't go on
 forever.
 
+This program was an exercise in filesystem I/O. As such, the functionality
+focuses more on that than entertainment value.
+
 ##How this program works:
 
 Just compile the program and run the resulting executable file. 
